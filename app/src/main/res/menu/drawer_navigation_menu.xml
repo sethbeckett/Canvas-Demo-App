@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Courses" android:id="@+id/courses_item" android:icon="@drawable/ic_baseline_book_24" android:checked="true"/>
+        <item android:title="Upcoming Events" android:id="@+id/events_item" android:icon="@drawable/ic_baseline_calendar_today_24"/>
+        <item android:title="User Profile" android:id="@+id/profile_item" android:icon="@drawable/ic_baseline_person_24"/>
+    </group>
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CanvasUIStarter</string>
+    <string name="canvas_token"></string>
+</resources>
